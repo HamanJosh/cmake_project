@@ -1,3 +1,5 @@
+mingw32 를 사용했을 때 debugging 모드가 제대로 동작하지 않았음.
+
 1. Vscode에서 'Ctrl + Shift + p' 를 입력하여 'command pallete' 를 띄운다
 2. cmake: configure 를 입력하면 아래와 같은 list 가 뜨는데 configure항목을 선택한다
 3. ![image](https://user-images.githubusercontent.com/109014545/178133394-dff1ef95-38a3-42dc-b230-653d1716fb41.png)
