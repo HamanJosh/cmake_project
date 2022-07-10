@@ -1,5 +1,5 @@
 # haman_josh
-cmake 사용을 학습하기 위한 프로젝트
+cmake 프로젝트
 
 환경
 1. Windows10 64bit
