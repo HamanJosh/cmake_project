@@ -10,9 +10,7 @@ cmake 프로젝트
 
 참고자료 : https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=2
 
-**Error 발생 시 : build 폴더를 지우고 cmake_study/CMakeLists.txt 파일을 열고 저장(ctrl + s)한 다음 configure -> build -> debug 순서로 다시 진행할 것**
-
-사용법
+**사용법**
 1. Code download
 2. Vscode 실행
 3. 다운받은 Code 경로 open
@@ -22,3 +20,5 @@ cmake 프로젝트
 7. > cd command_files
 8. > build
 9. > run
+
+**Error 발생 시 : build 폴더를 지우고 cmake_study/CMakeLists.txt 파일을 열고 저장(ctrl + s)한 다음 configure -> build -> debug 순서로 다시 진행할 것**
