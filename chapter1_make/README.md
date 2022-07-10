@@ -9,4 +9,5 @@
   [build] Build finished with exit code 0
 7. cmake: debug 를 선택하여 debugging 모드를 실행시킨다
 8. Vscode Terminal 창에 Hello world가 printf 된다
-  
+  ![image](https://user-images.githubusercontent.com/109014545/178133558-ee806ca9-6736-441c-abd0-4e2bd5dd76f6.png)
+
