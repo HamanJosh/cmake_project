@@ -10,4 +10,4 @@ cmake 프로젝트
 
 참고자료 : https://youtu.be/nlKcXPUJGwA
 
-**Error 발생 시 : build 폴더를 지우고 configure -> build -> debug 순서로 다시 진행할 것 **
+**Error 발생 시 : build 폴더를 지우고 configure -> build -> debug 순서로 다시 진행할 것**
