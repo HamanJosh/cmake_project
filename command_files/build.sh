@@ -3,6 +3,6 @@
 #! /bin/sh
 cd ..
 cd build
-make
+mingw32-make
 cd ..
 cd command_files

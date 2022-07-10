@@ -2,5 +2,5 @@
 # File name : build.sh
 #! /bin/sh
 cd ..
-cmake -S . -B build
+cmake -DGLFW_BUILD_DOCS=OFF -S . -B build
 cd command_files
