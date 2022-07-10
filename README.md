@@ -17,8 +17,9 @@ cmake 프로젝트
 4. CMakeLists.txt 파일 open
 5. 저장 (Ctrl + s)
 6. Terminal 실행
-7. > cd command_files
-8. > build
-9. > run
+7. 아래 명령어들 실행
+> cd command_files
+> build
+> run
 
 **Error 발생 시 : build 폴더를 지우고 cmake_study/CMakeLists.txt 파일을 열고 저장(ctrl + s)한 다음 configure -> build -> debug 순서로 다시 진행할 것**
