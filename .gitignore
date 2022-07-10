@@ -1,3 +1,6 @@
+####################
+#  gitignore for C
+####################
 # Prerequisites
 *.d
 
@@ -52,7 +55,9 @@ Mkfile.old
 dkms.conf
 
 
-
+########################
+#  gitignore for CMake
+########################
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -66,9 +71,13 @@ CTestTestfile.cmake
 _deps
 
 
-
+###############################
+#  gitignore for build folder
+###############################
 build
 
 
-
+##############################
+#  gitignore for user define
+##############################
 [Bb][Uu][Ii][Ll][Dd]/
