@@ -4,9 +4,10 @@ cd build
 cmake_study.exe
 cd ..
 
+
 @REM Linux Environment
 @REM File name : build.sh
 @REM #! /bin/sh
 @REM cd build
-@REM ./cmake_study.exe
+@REM ./cmake_study
 @REM cd ..
