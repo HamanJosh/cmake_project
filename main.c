@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-float add(float a, float b);
+#include <adder.h>
 
 int main()
 {
@@ -15,7 +14,7 @@ int main()
     printf("==================================\n");
     printf("=========== Chapter. 2 ===========\n");
     printf("==================================\n");
-    res = add(3.4, 1.1);
+    res = add(3.4, 2.2);
     printf("%3.3f\n", res);
     printf("\n");
 
